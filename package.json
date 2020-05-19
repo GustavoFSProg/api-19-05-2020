@@ -2,7 +2,7 @@
   "name": "api-19-05-2020",
   "version": "1.0.0",
   "description": "This is an aplication to teste steps and to do features",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": " nodemon --exec babel-node src/index.js",
