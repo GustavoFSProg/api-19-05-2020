@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": " nodemon --exec babel-node src/index.js",
+    "dev": "nodemon --exec babel-node src/index.js",
     "start": "nodemon --exec babel-node src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GustavoFSProg/api-19-05-2020.git"
   },
-  "engine": {
+  "engines": {
     "node": "v12.x"
   },
   "keywords": [],

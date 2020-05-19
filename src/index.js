@@ -2,8 +2,6 @@ import cors from 'cors'
 import express from 'express'
 import versionList from './routes/indexRoutes'
 
-require('dotenv').config()
-
 const PORT = 3000
 
 const app = express()
